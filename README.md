@@ -4,9 +4,9 @@
 
 
 - 👋 Hi, I’m @bolotovmark
-- ##👀 inst: @airship_aha
-- ##🌱 VK: @airship_aha
-- #💞️ I like to eat
+- ## 👀 inst: @airship_aha
+- ## 🌱 VK: @airship_aha
+- # 💞️ I like to eat
 - 📫 bolmark2003@gmail.com
 
 <!---
