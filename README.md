@@ -4,10 +4,10 @@
 
 
 - 👋 Hi, I’m @bolotovmark
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- ##👀 inst: @airship_aha
+- ##🌱 VK: @airship_aha
+- #💞️ I like to eat
+- 📫 bolmark2003@gmail.com
 
 <!---
 bolotovmark/bolotovmark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
